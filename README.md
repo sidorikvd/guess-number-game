@@ -13,7 +13,7 @@ A simple game in which the system guesses a number, and the user's goal is to gu
 
 ## Documentation
 
-Just download and compile 🤡
+Just download and compile!
 
 ## Distribute
 
